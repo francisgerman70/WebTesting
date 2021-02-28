@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UVicTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-27T23:41:24" hostname="News-MBP.hitronhub.home" time="5.151">
+  <properties/>
+  <testcase name="UVICPhoneNumber()" classname="UVicTest" time="5.151"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 24791
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Feb. 27, 2021 3:41:27 P.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
